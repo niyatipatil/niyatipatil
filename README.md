@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niyati Patil</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate software developer with experience in a wide range of technologies.</h3>
-<h5 align="center">Here's a bit about me and what I do:</h5>
+<h5 align="center">Here's a bit about me:</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niyatipatil&label=Profile%20views&color=0e75b6&style=flat" alt="np" /> </p>
 
