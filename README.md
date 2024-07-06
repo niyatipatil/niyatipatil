@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niyatipatil" alt="np" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Leetcode:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/niyatipatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="np" height="30" width="40" /></a>
 </p>
